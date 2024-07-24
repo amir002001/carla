@@ -168,7 +168,7 @@ __4.__ Open the Editor to check that Unreal Engine has been installed properly.
 The button above will take you to the official repository of the project. Either download from there and extract it locally or clone it using the following command:
 
 ```sh
-        git clone https://github.com/carla-simulator/carla
+        git clone https://github.com/carla-simulator/carla --depth 1
 ```
 
 !!! Note
